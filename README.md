@@ -1,9 +1,9 @@
 # Vityarthi-AI-ML-Project
 
-overview  
-features  
-technologies/ tools used  
-steps to install and run   
-installation steps  
-instructions for testing  
-expected outcomes  
+Overview  
+Features  
+Technologies/ tools used  
+Steps to install and run   
+Installation steps  
+Instructions for testing  
+Expected outcomes  
