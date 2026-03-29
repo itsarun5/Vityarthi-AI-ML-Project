@@ -45,4 +45,11 @@ It’s designed to be easy to run and easy to understand — great for coursewor
 - Interactive checks
   - In Jupyter Notebook, run cells step by step and inspect intermediate DataFrame contents.
   - Modify the sample dataset in data/sample_data.csv or in the script and re-run to see how predictions change.
+ 
+
+# Expected Outcomes
+Predicted LPG Demand (Tonnes):
+Month 1: 80.00
+Month 2: 85.00
+
 
