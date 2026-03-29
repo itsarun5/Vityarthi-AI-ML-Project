@@ -32,10 +32,15 @@ It’s designed to be easy to run and easy to understand — great for coursewor
 
 ## Requirements
 - **Python 3.11 (64-bit)** recommended.  
-- Required libraries:
+- Required libraries must be installed:
   - **pandas**
   - **scikit-learn**
-  - **matplotlib**  
+  - **matplotlib**
+- Jupyter Notebook
+- VS Code(Visual Studio Code)
+
+# Installation Steps
+Download the Code Save the provided Python code as 'LPG Predictor Regression Model.py' Run the Application : python 'LPG Predictor Regression Model.py' No Additional Dependencies Required Uses only Python standard libraries No external packages to install, also if you don't want to deal with IDLE use VS Code OR Jupyter Notebook
 
 
 # Instructions for Testing
